@@ -1,7 +1,7 @@
 # DulCerrado
 
 <b>Resumo</b></br>
-Desenvolvimento de uma Solução Mobile para Dulcerrado - Cafés Especiais do Produtor, de modo a implementar o atendimento automatizado garantindo a segurança, controle dos processos, agilidade no atendimento, conforto dos clientes e usuários, proporcionando assim maior facilidade aos atendentes, baristas e uma gestão efetiva por parte da gerencia.
+Desenvolvimento de uma Solução Mobile para Dulcerrado - Cafés Especiais do Produtor, de modo a implementar o atendimento automatizado garantindo a segurança, controle dos processos, agilidade no atendimento, conforto dos clientes e usuários, proporcionando assim maior facilidade aos atendentes, baristas e uma gestão efetiva por parte da gerência.
 
 <b>Funcionalidades:</b>
 <ul>
